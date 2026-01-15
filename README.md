@@ -1,6 +1,6 @@
 # kata-match-up
 
-**Kata 71 per l'especialitat fullstackPHP 14-1-26**
+**Kata 71 per l'especialitat fullstackPHP 15-1-26**
 
 La idea d'aquesta kata és crear un tauler de joc de cartes
 per jugar al joc de trobar parells iguals de cartes.
